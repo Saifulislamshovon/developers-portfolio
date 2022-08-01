@@ -15,7 +15,7 @@ p {
     text-align: left;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 250px;
 }
